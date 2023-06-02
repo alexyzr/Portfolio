@@ -9,9 +9,6 @@ Essa é a minha solução para o desafio [QR code component challenge on Fronten
   - [Feito usando](#tecnologias)
 - [Autor](#autor)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Geral
 
 ### Screenshot
