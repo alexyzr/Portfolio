@@ -15,7 +15,7 @@ Primeiro desafio do Frontend Mentor, um site simples com um único QR Code proje
 
 [Link no Pages.](https://alexyzr.github.io/projetos-portfolio/QRCode/index.html)
 
-![](QRCode/screenshot.png)
+![](QR Code/screenshot.png)
 
 ## Autor
 
